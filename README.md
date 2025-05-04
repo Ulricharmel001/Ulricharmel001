@@ -20,7 +20,7 @@ What inspires me is the ability to create technology that **solves real-world pr
 
 ### 🔭 Working On
 - **E-learning platform**: Developing an interactive and feature-rich platform with my team at **Gep Academy**.
-- **Airbnb Clone App**: A project to simulate the core features of the Airbnb platform, a replica of the pupolar AirBnB platform with features like Booking, listing, Signup Login etc.
+- **Airbnb Clone App**: A project to simulate the core features of the Airbnb platform, a replica of the pupolar AirBnB platform with features like Space booking, listing, Signup Login etc.
 
 ### 🌍 Languages
 - **English**, **French**
@@ -78,4 +78,4 @@ A replica of the popular Airbnb platform, with functionalities like user signup,
 
 
 
-Thanks for visiting! Feel free to connect, collaborate, or explore my projects. Let’s build something impactful together. 🚀
+Thanks for visiting! Feel free to connect, collaborate, or explore my projects. Let’s build something impactful together. 
