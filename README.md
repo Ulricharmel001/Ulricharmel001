@@ -4,7 +4,7 @@
 
 ## About Me 
 
-I am a learner in the **ALX Backend Web Development** and **Pro Dev Backend** programs, striving to make my mark in the tech industry. My journey began with a deep interest in **software engineering** and has since evolved into a passion for building scalable, efficient, and user-friendly backend systems.
+I am a learner in the **ALX Backend Web Development** and **Pro Dev Backend** programs, **Full Stack** Web Development Student at **GEP Pro Academy**, Final Year Accounting Student at **University of Bamenda**, striving to make my mark in the tech industry. My journey began with a deep interest in **software engineering** and has since evolved into a passion for building scalable, efficient, and user-friendly backend systems.
 
 What inspires me is the ability to create technology that **solves real-world problems**, especially in **finance** and **education**. I’m particularly passionate about how **digital solutions** can transform traditional industries like accounting and education, enabling efficiency and growth.
 
@@ -20,7 +20,7 @@ What inspires me is the ability to create technology that **solves real-world pr
 
 ### 🔭 Working On
 - **E-learning platform**: Developing an interactive and feature-rich platform with my team at **Gep Academy**.
-- **Airbnb Clone App**: A project to simulate the core features of the Airbnb platform.
+- **Airbnb Clone App**: A project to simulate the core features of the Airbnb platform, a replica of the pupolar AirBnB platform with features like Booking, listing, Signup Login etc.
 
 ### 🌍 Languages
 - **English**, **French**
@@ -59,7 +59,7 @@ What inspires me is the ability to create technology that **solves real-world pr
 ## 💻 Featured Projects
 
 ### 🎓 **Digital School** – E-Learning Platform
-A team project developed at **Gep Academy**, aiming to create an engaging digital learning space. Features include user authentication, course uploads, and personalized user dashboards.  
+A team project developed at **Gep Pro Academy**, aiming to create an engaging digital learning space. Features include user authentication, course uploads, and personalized user dashboards.  
 **Tech Stack**: PHP, MySQL, HTML/CSS, Laravel  
 **Role**: Backend Developer & API Integration
 
