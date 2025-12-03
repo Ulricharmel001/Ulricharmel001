@@ -1,81 +1,61 @@
-# Hi, i am Geyek Ulrich Armel Dahyebga! 
+# Hi, I’m Geyek Ulrich Armel Dahyebga
 
 ![Banner Image](/asset/Blue%20and%20White%20Modern%20Minimalist%20Entrepreneur%20LinkedIn%20Article%20Cover%20Image.jpg)
 
-## About Me 
+## About Me
 
-I am a learner in the **ALX Backend Web Development** and **Pro Dev Backend** programs, **Full Stack** Web Development Student at **GEP Pro Academy**, Final Year Accounting Student at **University of Bamenda**, striving to make my mark in the tech industry. My journey began with a deep interest in **software engineering** and has since evolved into a passion for building scalable, efficient, and user-friendly backend systems.
+I come from a **business and accounting background**, giving me strong analytical and problem-solving skills. I am now focused on **backend development**, building **scalable, secure, and deployable systems** that create real impact.  
 
-What inspires me is the ability to create technology that **solves real-world problems**, especially in **finance** and **education**. I’m particularly passionate about how **digital solutions** can transform traditional industries like accounting and education, enabling efficiency and growth.
+I am improving my backend skills through the **ALX ProDev Backend program** and expanding my cloud expertise through the **ALX Cloud program**, where I am learning **AWS cloud services**.  
 
-**My aim** is to become a highly skilled backend developer, building **robust and scalable systems** that provide impactful solutions. As part of my journey, I’m keen on working on projects that involve:
+My goal is to **build impactful backend solutions**, collaborate on meaningful projects, and develop **business tools** that facilitate day-to-day activities.
 
-- Building **Fintech applications** to help streamline financial processes and transactions.
-- Creating **education technology platforms** that enable seamless learning experiences.
-- Working on **API-driven solutions** that integrate diverse services.
-
-### 🌱 Currently Learning
-- **Backend Development** with **Python**, **PHP**, **Flask**, and **Node.js**.
-- **Database Design** and optimization (MySQL, SQLite).
-
-### 🔭 Working On
-- **E-learning platform**: Developing an interactive and feature-rich platform with my team at **Gep Academy**.
-- **Airbnb Clone App**: A project to simulate the core features of the Airbnb platform, a replica of the pupolar AirBnB platform with features like Space booking, listing, Signup Login etc.
-
-### 🌍 Languages
-- **English**, **French**
-- **Python**, **PHP**, **JavaScript**, **HTML/CSS**
-
-### 📫 How to Reach Me
-- **Email**: [armelurich16@gmail.com](mailto:armelurich16@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ulricharmel](https://www.linkedin.com/in/ulricharmel)
+### Current Focus
+- Developing a **robust blog application** for bloggers, focused on **scalability, security, and performance**  
+- Learning **cloud deployment and backend tools** using AWS, Docker, Postman, Git, Swagger, and Redis  
+- Implementing caching and optimized performance for backend systems using **Redis**  
 
 ---
 
-## 💼 Technical Skills
+## Technical Skills
 
-### 👨‍💻 Languages
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Programming Language
+- Python
 
-### 🧱 Frameworks & Libraries
-- Laravel, Flask, Bootstrap, TailwindCSS
+### Frameworks & Libraries
+- Django
+- Django REST Framework (for API development)
 
-### 🛢 Databases
-- MySQL, SQLite
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
 
-### 🌐 Tools & Platforms
-- Git, GitHub, XAMPP, Postman
+### Tools & Platforms
+- Docker
+- Postman
+- Git & Git Bash
+- AWS Cloud
+- Swagger (API documentation)
+- Redis (caching & memcache)
 
-### 🎨 Other Skills
-- **SPS for Data Analysis**  
-- **Photoshop for Graphic Design**  
+### Frontend Basics
+- HTML, CSS, JavaScript (basic knowledge for integration with backend systems)
 
+---
 
+## Current Project
 
-## 💻 Featured Projects
+### Blog Application
+**Role:** Backend Developer  
+**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Docker, AWS  
 
-### 🎓 **Digital School** – E-Learning Platform
-A team project developed at **Gep Pro Academy**, aiming to create an engaging digital learning space. Features include user authentication, course uploads, and personalized user dashboards.  
-**Tech Stack**: PHP, MySQL, HTML/CSS, Laravel  
-**Role**: Backend Developer & API Integration
+Developing a robust, secure, and scalable blogging platform for creators. Focus is on **API-driven architecture, database optimization, caching, and cloud deployment**.
 
-### 🏠 **Airbnb Clone App**
-A replica of the popular Airbnb platform, with functionalities like user signup, space listings, and booking.  
-**Tech Stack**: Python, Flask, MySQL  
-**Role**: Backend Developer
+---
 
+## Contact
 
-
-## 📬 Get in Touch
-
-- **GitHub**: [Ulricharmel001](https://github.com/Ulricharmel001)
-- **LinkedIn**: [ulricharmel](https://www.linkedin.com/in/ulricharmel)
-- **Email**: [armelurich16@gmail.com](mailto:armelurich16@gmail.com)
-
-
-
-Thanks for visiting! Feel free to connect, collaborate, or explore my projects. Let’s build something impactful together. 
+- **GitHub:** [Ulricharmel001](https://github.com/Ulricharmel001)  
+- **LinkedIn:** [ulricharmel](https://www.linkedin.com/in/ulricharmel)  
+- **Email:** [armelurich16@gmail.com](mailto:armelurich16@gmail.com)
