@@ -1,6 +1,6 @@
 # Hi, I’m Geyek Ulrich Armel Dahyebga
 
-![Banner Image](/asset/Blue%20and%20White%20Modern%20Minimalist%20Entrepreneur%20LinkedIn%20Article%20Cover%20Image.jpg)
+![Banner Image](/asset/profile.jpg)
 
 ## About Me
 
